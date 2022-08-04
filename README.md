@@ -1,2 +1,2 @@
 # Haskell-Assignment
-CPTS 355
+CPTS 355 LAB
